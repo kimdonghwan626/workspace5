@@ -22,5 +22,7 @@ import bxm.common.annotaion.BxmCategory;
 public class bean {
 	private final Logger logger = LoggerFactory.getLogger(this.getClass());
 	private String str;
+	private String str2;
+	
 }
 

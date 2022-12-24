@@ -23,6 +23,5 @@ public class bean {
 	private final Logger logger = LoggerFactory.getLogger(this.getClass());
 	private String str;
 	private String str2;
-	private String str3;
 }
 

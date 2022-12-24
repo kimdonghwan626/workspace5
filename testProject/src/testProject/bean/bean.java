@@ -21,5 +21,6 @@ import bxm.common.annotaion.BxmCategory;
 @BxmCategory(logicalName = "bean", author = "sysadmin")
 public class bean {
 	private final Logger logger = LoggerFactory.getLogger(this.getClass());
+	private String str;
 }
 
